@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+hello world
+​[![​Anurag's GitHub stats​](https://github-readme-stats.vercel.app/api?username=KimuChicken)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
-KimuChicken/KimuChicken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![​Instagram Badge​](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/goodoldfashioned.loverboy/)](https://www.instagram.com/goodoldfashioned.loverboy/)<br/>
