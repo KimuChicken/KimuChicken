@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KimuChicken
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... <br>
+- 👀 I’m interested in ... hamster
+- 🌱 I’m currently learning ... guitar
+- 💞️ I’m looking to collaborate on ... genius
+- 📫 How to reach me ... handwritten letter <br>
 The World<br>
 ​[![​Anurag's GitHub stats​](https://github-readme-stats.vercel.app/api?username=KimuChicken)](https://github.com/anuraghazra/github-readme-stats) <br>
 
